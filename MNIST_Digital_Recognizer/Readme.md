@@ -1,4 +1,4 @@
 # Digit Recognizer
 # Learn computer vision fundamentals with the famous MNIST data
 
-# https://www.kaggle.com/alekseibragin/titanic
+# https://www.kaggle.com/alekseibragin/kaggle-mnist-recognizer
